@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\bin\Debug\netcoreapp3.1\AssurityAPI.deps.json
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\bin\Debug\netcoreapp3.1\AssurityAPI.dll
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\bin\Debug\netcoreapp3.1\AssurityAPI.pdb
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\obj\Debug\netcoreapp3.1\AssurityAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\obj\Debug\netcoreapp3.1\AssurityAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\obj\Debug\netcoreapp3.1\AssurityAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\obj\Debug\netcoreapp3.1\AssurityAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\obj\Debug\netcoreapp3.1\AssurityAPI.dll
+C:\Users\User\Desktop\Assurity\assurityAPItest\AssurityAPI\obj\Debug\netcoreapp3.1\AssurityAPI.pdb
